@@ -2,7 +2,7 @@
 
 # Práctica: Sistema cardiovascular
 
-## Información de la estudiante
+## Información del estudiante
 Rendon Carrillo Erik Rasheed \[20210818]; erik.rendonc201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
